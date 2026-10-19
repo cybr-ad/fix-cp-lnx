@@ -1,3 +1,3 @@
-# copy-linux
 
-fix copy paste problem in linux
+This script 
+fix copy paste problem in Linux
